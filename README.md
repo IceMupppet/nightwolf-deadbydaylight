@@ -1,3 +1,4 @@
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/develop/assets/banner-DBD-NIGHTWOLF.png "nightwolf")
 # DEAD BY DAYLIGHT - NIGHTWOLF EDITION
 
 ## Installation
