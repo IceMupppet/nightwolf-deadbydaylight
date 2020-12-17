@@ -1,4 +1,6 @@
 ECHO "Dead by daylight : Nightwolf Edition"
 
 :: PERKS
-MOVE /Y blah.png, blah.png ../../DeadByDaylight/Content/UI/Icons/Perks/
+MOVE /Y content/iconPerks_quickAndQuiet.png, iconPerks_quickAndQuiet.png ../../DeadByDaylight/Content/UI/Icons/Perks/
+
+
