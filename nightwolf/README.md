@@ -1,3 +1,1 @@
-# How to install the Dead by Daylight Nightwolf Mod
-
-
+# READ index.md for more information.
