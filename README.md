@@ -19,6 +19,6 @@
 ## Contribution
 
 
-## Suport
+## Support
 
 Go fuck yourself.
