@@ -5,6 +5,7 @@ mapping_list = {
     "nightwolf/content/iconPerks_headOn.png": "../DeadByDaylight/Content/UI/Icons/Perks/Mali/iconPerks_headOn.png",
     "nightwolf/content/iconPerks_quickAndQuiet.png": "../DeadByDaylight/Content/UI/Icons/Perks/iconPerks_quickAndQuiet.png",
     "nightwolf/content/iconPerks_leftBehind.png": "../DeadByDaylight/Content/UI/Icons/Perks/L4D/iconPerks_leftBehind.png",
+    "nightwolf/content/iconPerks_unbreakable.png": "../DeadByDaylight/Content/UI/Icons/Perks/L4D/iconPerks_unbreakable.png",
     "nightwolf/content/iconPerks_selfCare.png": "../DeadByDaylight/Content/UI/Icons/Perks/iconPerks_selfCare.png"
 }
 
