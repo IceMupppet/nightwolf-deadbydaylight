@@ -2,11 +2,11 @@ import os
 import shutil
 
 mapping_list = {
-    "nightwolf/content/iconPerks_headOn.png": "../DeadByDaylight/Content/UI/Icons/Perks/Mali/iconPerks_headOn.png",
-    "nightwolf/content/iconPerks_quickAndQuiet.png": "../DeadByDaylight/Content/UI/Icons/Perks/iconPerks_quickAndQuiet.png",
-    "nightwolf/content/iconPerks_leftBehind.png": "../DeadByDaylight/Content/UI/Icons/Perks/L4D/iconPerks_leftBehind.png",
-    "nightwolf/content/iconPerks_unbreakable.png": "../DeadByDaylight/Content/UI/Icons/Perks/L4D/iconPerks_unbreakable.png",
-    "nightwolf/content/iconPerks_selfCare.png": "../DeadByDaylight/Content/UI/Icons/Perks/iconPerks_selfCare.png"
+    "themes/nightwolf/Perks/iconPerks_headOn.png": "../DeadByDaylight/Content/UI/Icons/Perks/Mali/iconPerks_headOn.png",
+    "themes/nightwolf/Perks/iconPerks_quickAndQuiet.png": "../DeadByDaylight/Content/UI/Icons/Perks/iconPerks_quickAndQuiet.png",
+    "themes/nightwolf/Perks/iconPerks_leftBehind.png": "../DeadByDaylight/Content/UI/Icons/Perks/L4D/iconPerks_leftBehind.png",
+    "themes/nightwolf/Perks/iconPerks_unbreakable.png": "../DeadByDaylight/Content/UI/Icons/Perks/L4D/iconPerks_unbreakable.png",
+    "themes/nightwolf/Perks/iconPerks_selfCare.png": "../DeadByDaylight/Content/UI/Icons/Perks/iconPerks_selfCare.png"
 }
 
 root_path = "E:/SteamLibrary/steamapps/common/Dead by Daylight/deadbydaylight-nightwolf"
