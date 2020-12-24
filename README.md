@@ -18,7 +18,12 @@
  
 # Themes
 
+## Nightwolf Collection
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/develop/assets/nightwolf-banner.png "nightwolf-banner")
+
+## Blood Thirst Collection
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/develop/assets/bloodthirst-banner.png "nightwolf-banner")
+
 
 
 ## Contribution
