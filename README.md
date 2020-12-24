@@ -15,6 +15,11 @@
  * Run install.bat
 
  * Run Dead by Daylight and Enjoy! 
+ 
+# Themes
+
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/develop/assets/nightwolf-banner.png "nightwolf-banner")
+
 
 ## Contribution
 
