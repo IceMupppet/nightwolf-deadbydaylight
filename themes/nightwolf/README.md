@@ -1,2 +1,2 @@
-![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/develop/assets/nightwolf-banner.png "nightwolf")
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/nightwolf-banner.png "nightwolf")
 
