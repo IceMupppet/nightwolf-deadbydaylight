@@ -1,4 +1,4 @@
-![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/develop/assets/banner-DBD-NIGHTWOLF.png "nightwolf")
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/banner-DBD-NIGHTWOLF.png "nightwolf")
 # DEAD BY DAYLIGHT - NIGHTWOLF EDITION
 
 ## Installation
@@ -19,10 +19,10 @@
 # Themes
 
 ## Nightwolf Collection
-![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/develop/assets/nightwolf-banner.png "nightwolf-banner")
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/nightwolf-banner.png "nightwolf-banner")
 
 ## Blood Thirst Collection
-![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/develop/assets/bloodthirst-banner.png "nightwolf-banner")
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/bloodthirst-banner.png "nightwolf-banner")
 
 
 
