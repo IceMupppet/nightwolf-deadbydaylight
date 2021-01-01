@@ -16,16 +16,24 @@
 
  * Run Dead by Daylight and Enjoy! 
 
-# NIGHTWOLF SPECIAL ITEMS!
+# NIGHTWOLF SPECIAL THEME!
 
 ## Nightwolf Collection
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/nightwolf-banner.png "nightwolf-banner")
 
 
-# Themes
+# Other Themes
+## Celestial Collection
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/toon.png?raw=true "nightwolf-banner")
 
-## Blood Thirst Collection
-![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/bloodthirst-banner.png "nightwolf-banner")
+## Celestial Collection
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/celestial.png?raw=true "nightwolf-banner")
+
+## Glacier Perk
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/glacierpack.png?raw=true "nightwolf-banner")
+
+## Niddam 0
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/niddam.png?raw=true "nightwolf-banner")
 
 ## Nemesys Portrait Pack
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/nemsys.png?raw=true "nightwolf-banner")
@@ -37,6 +45,9 @@
  ## Pixel Portrait Perk Pack
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/pixelportrait.png?raw=true
  "nightwolf-banner")
+ 
+ ## Blood Thirst Collection
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/bloodthirst-banner.png "nightwolf-banner")
 
 
 ## Contribution
