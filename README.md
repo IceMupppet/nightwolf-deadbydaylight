@@ -15,15 +15,28 @@
  * Run install.bat
 
  * Run Dead by Daylight and Enjoy! 
- 
-# Themes
+
+# NIGHTWOLF SPECIAL ITEMS!
 
 ## Nightwolf Collection
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/nightwolf-banner.png "nightwolf-banner")
 
+
+# Themes
+
 ## Blood Thirst Collection
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/bloodthirst-banner.png "nightwolf-banner")
 
+## Nemesys Portrait Pack
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/nemsys.png?raw=true "nightwolf-banner")
+
+## Golden Morez Perk Pack
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/goldenmorez.png?raw=true
+ "nightwolf-banner")
+ 
+ ## Pixel Portrait Perk Pack
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/pixelportrait.png?raw=true
+ "nightwolf-banner")
 
 
 ## Contribution
