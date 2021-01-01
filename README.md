@@ -23,17 +23,18 @@
 
 
 # Other Themes
-## Celestial Collection
-![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/toon.png?raw=true "nightwolf-banner")
-
-## Celestial Collection
-![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/celestial.png?raw=true "nightwolf-banner")
 
 ## Glacier Perk
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/glacierpack.png?raw=true "nightwolf-banner")
 
 ## Niddam 0
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/niddam.png?raw=true "nightwolf-banner")
+
+## Toon Theme
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/toon.png?raw=true "nightwolf-banner")
+
+## Celestial Collection
+![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/celestial.png?raw=true "nightwolf-banner")
 
 ## Nemesys Portrait Pack
 ![Alt text](https://github.com/IceMupppet/deadbydaylight-nightwolf/blob/gh-pages/dev/assets/nemsys.png?raw=true "nightwolf-banner")
