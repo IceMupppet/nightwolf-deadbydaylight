@@ -12,7 +12,7 @@
 
          cd deadbydaylight-nightwolf/nightwolf/
 
- * Run install.bat
+ * Copy and Paste (with Overright) into the UI/Icons/Perks Folders.
 
  * Run Dead by Daylight and Enjoy! 
 
